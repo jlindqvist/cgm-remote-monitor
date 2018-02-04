@@ -14,14 +14,14 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/nightscout/cgm-remote-monitor.git"
+    "url": "https://github.com/jlindqvist/cgm-remote-monitor.git"
   },
   "contributors": {
     "name": "Nightscout Team",
-    "url": "https://github.com/nightscout/cgm-remote-monitor/graphs/contributors"
+    "url": "https://github.com/jlindqvist/cgm-remote-monitor/graphs/contributors"
   },
   "bugs": {
-    "url": "https://github.com/nightscout/cgm-remote-monitor/issues"
+    "url": "https://github.com/jlindqvist/cgm-remote-monitor/issues"
   },
   "scripts": {
     "start": "node server.js",
@@ -79,7 +79,7 @@
     "lodash": "^4.17.4",
     "long": "^3.2.0",
     "mfb": "^0.12.0",
-    "minimed-connect-to-nightscout": "git://github.com/jlindqvist/minimed-connect-to-nightscout.git#v1.1.0",
+    "minimed-connect-to-nightscout": "git://github.com/jlindqvist/minimed-connect-to-nightscout.git",
     "moment": "^2.19.1",
     "moment-timezone": "^0.5.14",
     "mongodb": "^2.2.33",
